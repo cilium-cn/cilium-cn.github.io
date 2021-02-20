@@ -1,1 +1,1 @@
-GIT_USER=tjnulql  USE_SSH=true yarn deploy
+GIT_USER=WindyLQL  USE_SSH=true yarn deploy
